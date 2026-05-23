@@ -1,0 +1,6 @@
+{
+  "name": "BTQ Attendance",
+  "description": "An application for tracking class attendance for BTQ subject. Supports Classes 2A, 2B, 2C, 3A, and 3B with customizable pupil lists and real-time statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

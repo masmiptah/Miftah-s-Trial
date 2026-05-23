@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Rub El Hizb (8-pointed Islamic Star) in Warm Gold -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,20 L64,34 L79,34 L71,54 L79,74 L64,74 L54,88 L44,74 L29,74 L37,54 L29,34 L44,34 Z" />
+
+    <!-- Beautiful Inner Contrast Circle in Deep Emerald Green -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M54,36 A18,18 0,1,0 54,72 A18,18 0,1,0 54,36 Z" />
+
+    <!-- Symmetrical Crescent Moon in pure white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,42.5 A11.5,11.5 0,1,0 58.5,57 A13.5,13.5 0,1,1 48,42.5 Z" />
+
+    <!-- Centered check emblem representing Attendance / Presensi -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M59.5,47.5 L51.5,55.5 L47.5,51.5 L44.5,54.5 L51.5,61.5 L62.5,50.5 Z" />
+</vector>
